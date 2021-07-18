@@ -1,0 +1,13 @@
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\bin\Debug\netcoreapp3.1\SecondExercise.exe
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\bin\Debug\netcoreapp3.1\SecondExercise.deps.json
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\bin\Debug\netcoreapp3.1\SecondExercise.runtimeconfig.json
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\bin\Debug\netcoreapp3.1\SecondExercise.runtimeconfig.dev.json
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\bin\Debug\netcoreapp3.1\SecondExercise.dll
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\bin\Debug\netcoreapp3.1\SecondExercise.pdb
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\obj\Debug\netcoreapp3.1\SecondExercise.csproj.AssemblyReference.cache
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\obj\Debug\netcoreapp3.1\SecondExercise.AssemblyInfoInputs.cache
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\obj\Debug\netcoreapp3.1\SecondExercise.AssemblyInfo.cs
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\obj\Debug\netcoreapp3.1\SecondExercise.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\obj\Debug\netcoreapp3.1\SecondExercise.dll
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\obj\Debug\netcoreapp3.1\SecondExercise.pdb
+C:\Users\João\Documents\Projetos\visual studio\poo\segundo exercicio\SecondExercise\SecondExercise\obj\Debug\netcoreapp3.1\SecondExercise.genruntimeconfig.cache
