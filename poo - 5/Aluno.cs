@@ -1,7 +1,5 @@
-namespace poo_s4___5
-{
-    public class Aluno
-    {
+namespace poo_s4___5 {
+    public class Aluno {
         public string Name;
         public double FirstGrade, SecondGrade, ThirdGrade;
 

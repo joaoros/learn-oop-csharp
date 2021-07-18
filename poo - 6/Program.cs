@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace poo_s4___6
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace poo_s4___6 {
+    class Program {
+        static void Main(string[] args) {
             Console.WriteLine("Qual é a cotação do Dolár?");
             double priceQuotation = double.Parse(Console.ReadLine(), System.Globalization.CultureInfo.InvariantCulture);
 

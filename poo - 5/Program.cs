@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Globalization;
 
-namespace poo_s4___5
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace poo_s4___5 {
+    class Program {
+        static void Main(string[] args) {
             Aluno student = new Aluno();
 
             Console.Write("Nome do aluno: ");

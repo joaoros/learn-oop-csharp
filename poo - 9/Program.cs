@@ -1,7 +1,9 @@
 ﻿using System; using System.Globalization; using System.Collections.Generic;
 
 namespace poo___9 {
+
     class Program {
+        
         static void Main(string[] args) {
 
             Console.Write("How many employees will be registered? ");

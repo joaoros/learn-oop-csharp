@@ -1,10 +1,7 @@
-﻿using System;
-using System.Globalization;
+﻿using System; using System.Globalization;
 
-namespace SecondExercise
-{
-    class Program
-    {
+namespace SecondExercise {
+    class Program {
         static void Main(string[] args) {
 
             Person firstPerson = new Person();
