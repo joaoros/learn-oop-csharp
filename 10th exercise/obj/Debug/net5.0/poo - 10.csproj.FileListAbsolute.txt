@@ -1,0 +1,5 @@
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/poo - 10.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/poo - 10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/poo - 10.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/poo - 10.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/poo - 10.csproj.CoreCompileInputs.cache
