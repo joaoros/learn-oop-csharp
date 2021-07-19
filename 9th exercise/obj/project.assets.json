@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joao.ros/Projects/poo/poo - 9/poo - 9.csproj",
+      "projectUniqueName": "/Users/joao.ros/Projects/learn-oop-csharp/9th exercise/poo - 9.csproj",
       "projectName": "poo - 9",
-      "projectPath": "/Users/joao.ros/Projects/poo/poo - 9/poo - 9.csproj",
+      "projectPath": "/Users/joao.ros/Projects/learn-oop-csharp/9th exercise/poo - 9.csproj",
       "packagesPath": "/Users/joao.ros/.nuget/packages/",
-      "outputPath": "/Users/joao.ros/Projects/poo/poo - 9/obj/",
+      "outputPath": "/Users/joao.ros/Projects/learn-oop-csharp/9th exercise/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joao.ros/.nuget/NuGet/NuGet.Config"
