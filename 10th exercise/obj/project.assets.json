@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/poo - 10.csproj",
-      "projectName": "poo - 10",
-      "projectPath": "/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/poo - 10.csproj",
+      "projectUniqueName": "/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/10th exercise.csproj",
+      "projectName": "10th exercise",
+      "projectPath": "/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/10th exercise.csproj",
       "packagesPath": "/Users/joao.ros/.nuget/packages/",
       "outputPath": "/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/",
       "projectStyle": "PackageReference",
