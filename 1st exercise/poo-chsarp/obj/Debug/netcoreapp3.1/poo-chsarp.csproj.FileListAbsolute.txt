@@ -1,13 +1,25 @@
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\bin\Debug\netcoreapp3.1\poo-chsarp.exe
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\bin\Debug\netcoreapp3.1\poo-chsarp.deps.json
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\bin\Debug\netcoreapp3.1\poo-chsarp.runtimeconfig.json
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\bin\Debug\netcoreapp3.1\poo-chsarp.runtimeconfig.dev.json
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\bin\Debug\netcoreapp3.1\poo-chsarp.dll
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\bin\Debug\netcoreapp3.1\poo-chsarp.pdb
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\obj\Debug\netcoreapp3.1\poo-chsarp.csproj.AssemblyReference.cache
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\obj\Debug\netcoreapp3.1\poo-chsarp.AssemblyInfoInputs.cache
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\obj\Debug\netcoreapp3.1\poo-chsarp.AssemblyInfo.cs
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\obj\Debug\netcoreapp3.1\poo-chsarp.csproj.CoreCompileInputs.cache
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\obj\Debug\netcoreapp3.1\poo-chsarp.dll
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\obj\Debug\netcoreapp3.1\poo-chsarp.pdb
-C:\Users\João\Documents\Projetos\poo-chsarp\poo-chsarp\obj\Debug\netcoreapp3.1\poo-chsarp.genruntimeconfig.cache
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.exe
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.deps.json
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.runtimeconfig.json
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.runtimeconfig.dev.json
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.dll
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.pdb
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.csproj.AssemblyReference.cache
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.AssemblyInfoInputs.cache
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.AssemblyInfo.cs
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.csproj.CoreCompileInputs.cache
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.dll
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.pdb
+C:/Users/João/Documents/Projetos/poo-chsarp/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.genruntimeconfig.cache
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.deps.json
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.runtimeconfig.json
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.runtimeconfig.dev.json
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.dll
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/bin/Debug/netcoreapp3.1/poo-chsarp.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.dll
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/1st exercise/poo-chsarp/obj/Debug/netcoreapp3.1/poo-chsarp.genruntimeconfig.cache

@@ -13,3 +13,18 @@
 /Users/joao.ros/Projects/poo/poo s4 - 5/obj/Debug/net5.0/ref/poo s4 - 5.dll
 /Users/joao.ros/Projects/poo/poo s4 - 5/obj/Debug/net5.0/poo s4 - 5.pdb
 /Users/joao.ros/Projects/poo/poo s4 - 5/obj/Debug/net5.0/poo s4 - 5.genruntimeconfig.cache
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/bin/Debug/net5.0/poo s4 - 5.deps.json
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/bin/Debug/net5.0/poo s4 - 5.runtimeconfig.json
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/bin/Debug/net5.0/poo s4 - 5.runtimeconfig.dev.json
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/bin/Debug/net5.0/poo s4 - 5.dll
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/bin/Debug/net5.0/ref/poo s4 - 5.dll
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/bin/Debug/net5.0/poo s4 - 5.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/poo s4 - 5.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/poo s4 - 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/poo s4 - 5.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/poo s4 - 5.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/poo s4 - 5.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/poo s4 - 5.dll
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/ref/poo s4 - 5.dll
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/poo s4 - 5.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/Debug/net5.0/poo s4 - 5.genruntimeconfig.cache

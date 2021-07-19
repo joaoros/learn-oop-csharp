@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joao.ros/Projects/poo/poo - 8/poo - 8.csproj": {}
+    "/Users/joao.ros/Projects/learn-oop-csharp/8th exercise/poo - 8.csproj": {}
   },
   "projects": {
-    "/Users/joao.ros/Projects/poo/poo - 8/poo - 8.csproj": {
+    "/Users/joao.ros/Projects/learn-oop-csharp/8th exercise/poo - 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joao.ros/Projects/poo/poo - 8/poo - 8.csproj",
+        "projectUniqueName": "/Users/joao.ros/Projects/learn-oop-csharp/8th exercise/poo - 8.csproj",
         "projectName": "poo - 8",
-        "projectPath": "/Users/joao.ros/Projects/poo/poo - 8/poo - 8.csproj",
+        "projectPath": "/Users/joao.ros/Projects/learn-oop-csharp/8th exercise/poo - 8.csproj",
         "packagesPath": "/Users/joao.ros/.nuget/packages/",
-        "outputPath": "/Users/joao.ros/Projects/poo/poo - 8/obj/",
+        "outputPath": "/Users/joao.ros/Projects/learn-oop-csharp/8th exercise/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joao.ros/.nuget/NuGet/NuGet.Config"

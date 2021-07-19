@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joao.ros/Projects/poo/poo s4 - 5/poo s4 - 5.csproj": {}
+    "/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/poo s4 - 5.csproj": {}
   },
   "projects": {
-    "/Users/joao.ros/Projects/poo/poo s4 - 5/poo s4 - 5.csproj": {
+    "/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/poo s4 - 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joao.ros/Projects/poo/poo s4 - 5/poo s4 - 5.csproj",
+        "projectUniqueName": "/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/poo s4 - 5.csproj",
         "projectName": "poo s4 - 5",
-        "projectPath": "/Users/joao.ros/Projects/poo/poo s4 - 5/poo s4 - 5.csproj",
+        "projectPath": "/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/poo s4 - 5.csproj",
         "packagesPath": "/Users/joao.ros/.nuget/packages/",
-        "outputPath": "/Users/joao.ros/Projects/poo/poo s4 - 5/obj/",
+        "outputPath": "/Users/joao.ros/Projects/learn-oop-csharp/5th exercise/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joao.ros/.nuget/NuGet/NuGet.Config"

@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joao.ros/Projects/poo/segundo exercicio/SecondExercise/SecondExercise/SecondExercise.csproj",
+      "projectUniqueName": "/Users/joao.ros/Projects/learn-oop-csharp/2nd exercise/SecondExercise/SecondExercise/SecondExercise.csproj",
       "projectName": "SecondExercise",
-      "projectPath": "/Users/joao.ros/Projects/poo/segundo exercicio/SecondExercise/SecondExercise/SecondExercise.csproj",
+      "projectPath": "/Users/joao.ros/Projects/learn-oop-csharp/2nd exercise/SecondExercise/SecondExercise/SecondExercise.csproj",
       "packagesPath": "/Users/joao.ros/.nuget/packages/",
-      "outputPath": "/Users/joao.ros/Projects/poo/segundo exercicio/SecondExercise/SecondExercise/obj/",
+      "outputPath": "/Users/joao.ros/Projects/learn-oop-csharp/2nd exercise/SecondExercise/SecondExercise/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/joao.ros/.config/NuGet/NuGet.Config"
+        "/Users/joao.ros/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
