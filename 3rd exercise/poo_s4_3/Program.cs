@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Globalization;
 
-namespace poo_s4_3 {
+namespace poo_s4_3 
+{
 
-    class Program {
+    class Program 
+    {
 
-        static void Main(string[] args) {
+        static void Main(string[] args) 
+        {
 
             Retangulo rectangle = new Retangulo();
 

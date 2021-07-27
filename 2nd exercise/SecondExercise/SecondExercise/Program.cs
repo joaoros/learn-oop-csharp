@@ -1,8 +1,11 @@
 ﻿using System; using System.Globalization;
 
-namespace SecondExercise {
-    class Program {
-        static void Main(string[] args) {
+namespace SecondExercise 
+{
+    class Program 
+    {
+        static void Main(string[] args) 
+        {
 
             Person firstPerson = new Person();
             Person secondPerson = new Person();

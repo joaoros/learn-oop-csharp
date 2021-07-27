@@ -1,17 +1,18 @@
 ﻿using System; using System.Globalization; using System.Collections.Generic;
 
-namespace poo___9 {
-
-    class Program {
-        
-        static void Main(string[] args) {
-
+namespace poo___9 
+{
+    class Program 
+    {
+        static void Main(string[] args) 
+        {
             Console.Write("How many employees will be registered? ");
             int n = int.Parse(Console.ReadLine());
 
             List<Employee> list = new List<Employee>();
 
-            for (int i = 1; i <= n; i++) {
+            for (int i = 1; i <= n; i++) 
+            {
                 Console.WriteLine("Employee #" + i + ":");
                 Console.Write("Id: ");
                 int id = int.Parse(Console.ReadLine());
@@ -27,12 +28,13 @@ namespace poo___9 {
             int searchId = int.Parse(Console.ReadLine());
 
             Employee emp = list.Find(x => x.Id == searchId);
-            if (emp != null) {
+            if (emp != null) 
+            {
                 Console.Write("Enter the percentage: ");
                 double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 emp.IncreaseSalary(percentage);
-            }
-            else {
+            } else 
+            {
                 Console.WriteLine("This id does not exist!");
             }
 

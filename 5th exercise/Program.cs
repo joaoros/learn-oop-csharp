@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Globalization;
 
-namespace poo_s4___5 {
-    class Program {
-        static void Main(string[] args) {
+namespace poo_s4___5 
+{
+    class Program 
+    {
+        static void Main(string[] args) 
+        {
             Aluno student = new Aluno();
 
             Console.Write("Nome do aluno: ");
@@ -15,10 +18,12 @@ namespace poo_s4___5 {
 
             Console.WriteLine("Nota final: " + student.FinalGrade().ToString("F2", CultureInfo.InvariantCulture));
 
-            if (student.IsApproved()) {
+            if (student.IsApproved()) 
+            {
                 Console.WriteLine("Aprovado");
             }
-            else {
+            else 
+            {
                 Console.WriteLine("Reprovado, faltaram "
                     + student.RemainingGrade().ToString("F2", CultureInfo.InvariantCulture) 
                     + " Pontos :(");

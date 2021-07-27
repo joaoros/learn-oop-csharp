@@ -1,8 +1,11 @@
 ﻿using System; using System.Globalization;
 
-namespace poo___8 {
-	class Program {
-		static void Main(string[] args) {
+namespace poo___8 
+{
+	class Program 
+    {
+		static void Main(string[] args) 
+        {
 
 			Rental[] rent = new Rental[10];
 
@@ -10,7 +13,8 @@ namespace poo___8 {
             int roomsNumber = int.Parse(Console.ReadLine()); 
 
             System.Console.WriteLine();
-            for (int i = 1; i <= roomsNumber; i++) {
+            for (int i = 1; i <= roomsNumber; i++) 
+            {
                 System.Console.WriteLine($"Rent #{i}");
                 System.Console.Write("Name: ");
                 string name = Console.ReadLine();
@@ -24,8 +28,10 @@ namespace poo___8 {
 
             System.Console.WriteLine();
             System.Console.WriteLine("Occupied rooms: "); 
-            for (int i = 0; i < 10; i++) {
-                if (rent[i] != null) {
+            for (int i = 0; i < 10; i++) 
+            {
+                if (rent[i] != null) 
+                {
                     System.Console.WriteLine(i + ":" + rent[i]);
                 }
             }

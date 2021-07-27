@@ -1,8 +1,10 @@
 ﻿using System;
 
-namespace SecondExercise {
+namespace SecondExercise 
+{
 
-    class Person {
+    class Person 
+    {
         
         public String name;
         public double salary;

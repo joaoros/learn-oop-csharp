@@ -1,8 +1,11 @@
 ﻿using System; using System.Globalization;
 
-namespace poo_s4___7 {
-    public class Program {
-        static void Main(string[] args) {
+namespace poo_s4___7 
+{
+    public class Program 
+    {
+        static void Main(string[] args) 
+        {
 
             BankAccount account;
 
@@ -12,12 +15,14 @@ namespace poo_s4___7 {
             string customer = Console.ReadLine();
             Console.Write("Haverá depósito inicial (s/n)? ");
             char answer = char.Parse(Console.ReadLine());
-            if (answer == 's' || answer == 'S') {
+
+            if (answer == 's' || answer == 'S') 
+            {
                 Console.Write("Entre o valor de depósito inicial: ");
                 double balance = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 account = new BankAccount(number, customer, balance);
-            }
-            else {
+            } else 
+            {
                 account = new BankAccount(number, customer);
             }
 

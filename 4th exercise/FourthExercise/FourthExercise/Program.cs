@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Globalization;
 
-namespace FourthExercise {
-    class Program {
-        static void Main(string[] args) {
+namespace FourthExercise 
+{
+    class Program 
+    {
+        static void Main(string[] args) 
+        {
             Funcionario employee = new Funcionario();
 
             Console.Write("Nome: ");
