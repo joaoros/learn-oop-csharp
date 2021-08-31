@@ -1,0 +1,24 @@
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.deps.json
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.runtimeconfig.json
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.runtimeconfig.dev.json
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.dll
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.pdb
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.AssemblyInfo.cs
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.dll
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.pdb
+/Users/joao.ros/Projects/poo_s4_3/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.genruntimeconfig.cache
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.deps.json
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.runtimeconfig.json
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.runtimeconfig.dev.json
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.dll
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/bin/Debug/netcoreapp3.1/poo_s4_3.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.dll
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/3rd exercise/poo_s4_3/obj/Debug/netcoreapp3.1/poo_s4_3.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+/Users/joao.ros/Projects/poo/poo - 7/bin/Debug/net5.0/poo s4 - 7.deps.json
+/Users/joao.ros/Projects/poo/poo - 7/bin/Debug/net5.0/poo s4 - 7.runtimeconfig.json
+/Users/joao.ros/Projects/poo/poo - 7/bin/Debug/net5.0/poo s4 - 7.runtimeconfig.dev.json
+/Users/joao.ros/Projects/poo/poo - 7/bin/Debug/net5.0/poo s4 - 7.dll
+/Users/joao.ros/Projects/poo/poo - 7/bin/Debug/net5.0/ref/poo s4 - 7.dll
+/Users/joao.ros/Projects/poo/poo - 7/bin/Debug/net5.0/poo s4 - 7.pdb
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/poo s4 - 7.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/poo s4 - 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/poo s4 - 7.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/poo s4 - 7.AssemblyInfo.cs
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/poo s4 - 7.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/poo s4 - 7.dll
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/ref/poo s4 - 7.dll
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/poo s4 - 7.pdb
+/Users/joao.ros/Projects/poo/poo - 7/obj/Debug/net5.0/poo s4 - 7.genruntimeconfig.cache
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/bin/Debug/net5.0/poo s4 - 7.deps.json
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/bin/Debug/net5.0/poo s4 - 7.runtimeconfig.json
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/bin/Debug/net5.0/poo s4 - 7.runtimeconfig.dev.json
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/bin/Debug/net5.0/poo s4 - 7.dll
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/bin/Debug/net5.0/ref/poo s4 - 7.dll
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/bin/Debug/net5.0/poo s4 - 7.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/poo s4 - 7.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/poo s4 - 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/poo s4 - 7.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/poo s4 - 7.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/poo s4 - 7.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/poo s4 - 7.dll
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/ref/poo s4 - 7.dll
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/poo s4 - 7.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/7th exercise/obj/Debug/net5.0/poo s4 - 7.genruntimeconfig.cache

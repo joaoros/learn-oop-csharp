@@ -1,0 +1,15 @@
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/bin/Debug/net5.0/fourteen exercise.deps.json
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/bin/Debug/net5.0/fourteen exercise.runtimeconfig.json
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/bin/Debug/net5.0/fourteen exercise.runtimeconfig.dev.json
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/bin/Debug/net5.0/fourteen exercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/bin/Debug/net5.0/ref/fourteen exercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/bin/Debug/net5.0/fourteen exercise.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/fourteen exercise.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/fourteen exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/fourteen exercise.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/fourteen exercise.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/fourteen exercise.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/fourteen exercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/ref/fourteen exercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/fourteen exercise.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/fourteen exercise/obj/Debug/net5.0/fourteen exercise.genruntimeconfig.cache

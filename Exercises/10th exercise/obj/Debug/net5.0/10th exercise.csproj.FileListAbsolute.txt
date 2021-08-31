@@ -1,0 +1,15 @@
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/10th exercise.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/10th exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/10th exercise.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/10th exercise.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/10th exercise.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/bin/Debug/net5.0/10th exercise.deps.json
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/bin/Debug/net5.0/10th exercise.runtimeconfig.json
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/bin/Debug/net5.0/10th exercise.runtimeconfig.dev.json
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/bin/Debug/net5.0/10th exercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/bin/Debug/net5.0/ref/10th exercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/bin/Debug/net5.0/10th exercise.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/10th exercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/ref/10th exercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/10th exercise.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/10th exercise/obj/Debug/net5.0/10th exercise.genruntimeconfig.cache

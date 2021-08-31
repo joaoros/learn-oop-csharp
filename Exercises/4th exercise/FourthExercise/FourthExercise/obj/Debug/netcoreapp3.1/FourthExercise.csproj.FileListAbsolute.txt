@@ -1,0 +1,36 @@
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.deps.json
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.runtimeconfig.json
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.runtimeconfig.dev.json
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.dll
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.pdb
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.AssemblyInfo.cs
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.dll
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.pdb
+/Users/joao.ros/Projects/poo/poo s4 - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.genruntimeconfig.cache
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.AssemblyInfo.cs
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.dll
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.pdb
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.deps.json
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.runtimeconfig.json
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.runtimeconfig.dev.json
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.dll
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.pdb
+/Users/joao.ros/Projects/poo/poo - 4/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.genruntimeconfig.cache
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.deps.json
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.runtimeconfig.json
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.runtimeconfig.dev.json
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/bin/Debug/netcoreapp3.1/FourthExercise.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.dll
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/4th exercise/FourthExercise/FourthExercise/obj/Debug/netcoreapp3.1/FourthExercise.genruntimeconfig.cache
