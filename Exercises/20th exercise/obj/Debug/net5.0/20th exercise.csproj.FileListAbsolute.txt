@@ -1,0 +1,16 @@
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\bin\Debug\net5.0\20th exercise.exe
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\bin\Debug\net5.0\20th exercise.deps.json
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\bin\Debug\net5.0\20th exercise.runtimeconfig.json
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\bin\Debug\net5.0\20th exercise.runtimeconfig.dev.json
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\bin\Debug\net5.0\20th exercise.dll
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\bin\Debug\net5.0\ref\20th exercise.dll
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\bin\Debug\net5.0\20th exercise.pdb
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\20th exercise.csproj.AssemblyReference.cache
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\20th exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\20th exercise.AssemblyInfoInputs.cache
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\20th exercise.AssemblyInfo.cs
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\20th exercise.csproj.CoreCompileInputs.cache
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\20th exercise.dll
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\ref\20th exercise.dll
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\20th exercise.pdb
+C:\Users\João\Documents\Projetos\learn-oop-csharp\Exercises\20th exercise\obj\Debug\net5.0\20th exercise.genruntimeconfig.cache
