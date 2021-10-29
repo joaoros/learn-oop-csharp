@@ -1,0 +1,15 @@
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/bin/Debug/net5.0/interfaces.deps.json
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/bin/Debug/net5.0/interfaces.runtimeconfig.json
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/bin/Debug/net5.0/interfaces.runtimeconfig.dev.json
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/bin/Debug/net5.0/interfaces.dll
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/bin/Debug/net5.0/ref/interfaces.dll
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/bin/Debug/net5.0/interfaces.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/interfaces.csproj.AssemblyReference.cache
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/interfaces.AssemblyInfoInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/interfaces.AssemblyInfo.cs
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/interfaces.dll
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/ref/interfaces.dll
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/interfaces.pdb
+/Users/joao.ros/Projects/learn-oop-csharp/Exercises/interfaces/obj/Debug/net5.0/interfaces.genruntimeconfig.cache
