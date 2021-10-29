@@ -1,18 +1,21 @@
 using System.Globalization;
 
-namespace 23th_exercise.Entities
+namespace _23th_exercise.Entities
 {
-    public class Product
-        public string Name { get; set; }
-        public double Price { get; set; }
+    public class Product {
+        static void Main(string[] args) {
 
-        public Product(string name, double price) {
-            Name = name;
-            Price = price;
-        }
+            List<Product> list = new List<Product>();
 
-        public override string ToString() {
-            return Name + ", " + Price.ToString("F2", CultureInfo.InvariantCulture);
+            list.Add(new Product("TV", 900.00));
+            list.Add(new Product("Notebook", 1200.00));
+            list.Add(new Product("Tablet", 450.00));
+
+            list.Sort((p1, p2) => p1.Name.ToUpper().CompareTo(p2.Name.ToUpper()));
+
+            foreach (Product p in list) {
+                Console.WriteLine(p);
+            }
         }
     }
 }

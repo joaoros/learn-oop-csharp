@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Course.Entities;
+using _23th_exercise.Entities;
 
 namespace _23th_exercise
 {
